@@ -6,4 +6,6 @@
 
 <span style="color:grey">*for the Documentation, you can check the [WIKI](https://github.com/mrgamernavshorts/better-filesystem/wiki) page.*</span>
 
+you can use it by `pip install betterfilesystem`.
+
 Here is the [Github link for the repo](https://github.com/mrgamernavshorts/better-filesystem).
