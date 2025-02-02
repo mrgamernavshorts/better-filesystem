@@ -18,7 +18,8 @@ def readfile(filepath):
     return filecontent
 
 def editfile(filename, filecontent):
-    createfile(filename, filecontent)
+    with open(filename,'a') as f:
+        f.write(filecontent)
 
 def move(currentpath, movedpath):
     if not os.path.exists(movedpath):
